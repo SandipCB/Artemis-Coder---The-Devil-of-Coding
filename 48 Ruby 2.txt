@@ -1,0 +1,30 @@
+			___________________ Features of Ruby___________________ 
+	
+	1. Ruby is an open-source and is freely available on the Web, but it is subject to a license.
+
+	2. Ruby is a general-purpose, interpreted programming language.
+
+	3. Ruby is a true object-oriented programming language.
+
+	4. Ruby is a server-side scripting language similar to Python and PERL.
+
+	5. Ruby can be used to write Common Gateway Interface (CGI) scripts.
+
+	6. Ruby can be embedded into Hypertext Markup Language (HTML).
+
+	7. Ruby has a clean and easy syntax that allows a new developer to learn very quickly and easily.
+
+	8. Ruby has similar syntax to that of many programming languages such as C++ and Perl.
+
+	9. Ruby is very much scalable and big programs written in Ruby are easily maintainable.
+
+	10. Ruby can be used for developing Internet and intranet applications.
+
+	11. Ruby can be installed in Windows and POSIX environments.
+
+	12. Ruby support many GUI tools such as Tcl/Tk, GTK, and OpenGL.
+
+	13. Ruby can easily be connected to DB2, MySQL, Oracle, and Sybase.
+
+	14. Ruby has a rich set of built-in functions, which can be used directly into Ruby scripts.
+

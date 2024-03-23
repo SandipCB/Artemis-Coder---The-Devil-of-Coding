@@ -1,0 +1,8 @@
+				^__What is a function? __^
+
+	Groups of classes are called a function. A function requires specific classes. For example,
+	if you want to create a function to play songs then you need to create specific classes under
+	these programs in which play, pause, stop and etc. are the classes. Now in a marriage example,
+	the Shanti program contains various functions such as mama swagat, batna lepan, lok sangit, sehra
+	bandi are various functions inside the Shanti program. That’s why small and big functions are important
+	in a programming language to create software.  

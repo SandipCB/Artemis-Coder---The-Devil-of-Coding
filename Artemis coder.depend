@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604069503 source:g:\study\project\(sumitted file )artemis coder - the devil of coding\artemis coder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+	<time.h>
+

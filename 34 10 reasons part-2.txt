@@ -1,0 +1,13 @@
+^_^ (1.)  Joy of the craft 
+
+	= A simple test of whether people love what they do is whether they’d do it even if they weren’t paid for it. 
+
+	= In 2018, 31 million developers contributed over 200 million times on Github for free. 
+
+	= Let me repeat that, 31 million developers spend their spare time writing code for free — that should tell you all you need to know about the joy of coding. 
+
+	= How many corporate lawyers would do their current work if they had to do it for free, in their spare time? 
+
+	= Ask any programmer what they love about their job and inevitably the conversation will turn to flow states, even if they don’t use that terminology. 
+
+	= Flow is the state of mind in which people are so involved in an activity that nothing else seems to matter. The experience itself is so enjoyable that people will do it even at great cost, for the sheer sake of doing it. 

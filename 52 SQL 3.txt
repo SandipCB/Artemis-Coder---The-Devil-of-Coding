@@ -1,0 +1,13 @@
+			^>^>^>^>^>^>^>^>^>^>^> What Is SQL? <^<^<^<^<^<^<^<^<^<^<^
+
+~~~``` SQL stands for Structured Query Language, which is a programming language used to communicate with relational databases.
+
+~~~``` The acronym is pronounced like the word sequel, but some people will just use the three letters S, Q, and L.
+
+~~~``` Although there were precursors to the SQL language as early as the 1960s, relational databases didn’t hit the market until the 1980s.
+
+~~~``` In 1979, Oracle became the first to incorporate an SQL language into its relational database construct.
+
+~~~``` SQL does have its distracters who consider it to be too slow and lacks the eloquence of other programming languages.
+
+~~~``` Despite its critics, SQL has become the standard language for querying and manipulating data stored in a relational database.

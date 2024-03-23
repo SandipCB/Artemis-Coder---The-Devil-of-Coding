@@ -1,0 +1,7 @@
+	#** "The job of a programmer is to craft solutions to problems that may or may not occur. It takes years for an individual to become a professional programmer. They can work as developers, coders, analysts, and more." 
+
+			#**#__""What are coding and programming and how do they work?""__#**#
+
+	[*] As we have already seen, coding is the process of producing codes that allow humans to communicate with machines. For example, from English to Javascript.  
+
+	[*] This tends to be one of the first stages of creating a piece of software like an application. Coding is very important in the modern digital world and allows every electronic device you use to work at some level.  

@@ -1,0 +1,13 @@
+				|~|_|~| What is a scripting language? |~|_|~|
+
+	|_|> A scripting language is used to write scripts. These contain a series of commands that are interpreted one by one at runtime unlike programming languages that are compiled first before running.
+
+	|_|> Nowadays, scripts are generally associated with web development where they are widely used to make dynamic web applications. Scripting languages can be divided into two categories:
+
+	|_|> Server Side Scripting Languages
+	|_|> Client Side Scripting Languages
+
+	|_|> Server-side scripting languages create the scripts that run on the server and hence minimize the workload of a browser. The functionality of your website is written in those scripting languages. The most commonly used server-side scripting languages are Perl, Ruby, Python, PHP, etc.
+
+	|_|> Client-side scripting languages create the scripts that run on the client side (i.e. your browser). These are sent from the server by server-side scripts. Some good examples are JavaScript, jQuery, CSS etc.
+

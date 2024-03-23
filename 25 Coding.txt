@@ -1,0 +1,15 @@
+					**__Coding__**
+
+	**> The term coding simply refers to the process of writing codes. A coder is an individual who codes from one language to another. 
+
+	**> Sources, like differencebetween.net, point out that coding is a form of programming but tends to be used to implement the initial steps of a computer programming process. 
+
+	**> "The term programming is used in a much broader sense, unlike coding which basically involves writing codes in various languages as instructed."  
+
+	**> Coding is important because computers are unable to interact with our native languages. They can only understand machine code which is in binary or hexadecimal.  
+
+	**> It is a coder's job to enable humans and machines to be able to "talk" to each other. In this sense, they can be thought of as machine language (binary) interpreters. Coders tend to be involved at the production level, and so, they must have a good grasp of the language they are writing in.  
+
+	**> "However, they don’t code on their own; in fact, they receive instructions on what to do and what needs to be accomplished followed by implementation, debugging testing, and QA. 
+
+	These instructions are generally called “source code”. It’s just a set of written instructions a machine will easily understand."  

@@ -1,0 +1,40 @@
+					 ->"TikTok"<-
+	TikTok, known in China as Douyin is a Chinese video-sharing social networking service owned by ByteDance, a Beijing-based Internet technology company founded in 2012 by Zhang Yiming.
+ 	TikTok is the latest video sharing social network. It is used to create short music, lip-sync, dance, comedy and talent videos of 3 to 15 seconds, and short looping videos of 3 to 60 seconds.
+	Byte Dance first launched Douyin for the Chinese market in September 2016. Later, TikTok was launched in 2017 for iOS and Android in most markets outside of mainland China; however, it only became available worldwide, including the United States, after merging with another Chinese social media service Musical.ly on 2 August 2018.
+	TikTok is rising day by day. It was the world’s most downloaded app in 2018. There are 550 million active users on TikTok.
+
+					##--"Features"--##
+					>Video Uploading
+					>Video Editing
+					>Live Streaming
+					>Social Sharing
+					>Soundtracks
+					>QR Code Scanner
+					>Duet Option
+					>Geo location
+
+
+				````~Summary (TikTok)~````
+	Stable release: 15.5.0 / 31 March 2020
+	Developed by: ByteDance
+	Initial release date: September 2016
+	Size: 308.3 MB (iOS); 55.21 MB (Android)
+	Operating system: iOS, Android
+	Available in: 40 languages
+
+
+
+				Leading countries based on TikTok audience size(In Millions)
+
+				Country....................In Millions
+				India---------------------119.3
+				USA----------------------39.6
+				Turkey-------------------28.4
+				Russia--------------------24.3
+				Mexico------------------19.7
+				Brazil---------------------18.4
+				Pakistan----------------11.8
+				Saudi Arabia-----------9.7
+				France-------------------9.1
+				germany----------------8.8

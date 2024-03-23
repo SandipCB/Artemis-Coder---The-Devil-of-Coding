@@ -1,0 +1,5 @@
+	~In this article, you will learn about why is programming skills important, what are its uses in technology, and how it impacts 	business and career. The programming skill is important for learning to innovate, create eco-friendly solutions for global 	problems. Programming is important in our daily life to enhance and increase the power of computers and the internet. 
+
+		~Programming is important for speeding up the input and output processes in a machine. Programming is 				important to automate, collect, manage, calculate, analyze the processing of data and information accurately. 
+
+			~Programming is important to create software and applications that help computer and mobile users in 			daily life. Due to all these reasons, it’s really important to learn how to use programming languages in 			our daily life. 

@@ -1,0 +1,28 @@
+					#~~"_QQ_"~~#
+
+	Tencent QQ also known as QQ, is an instant messaging software service and web portal developed by the Chinese tech giant Tencent.  
+	It is the world's 5th most visited website, according to Alexa. 
+	As of April 2014, over 200 million simultaneous online QQ users were recorded.  At the end of June 2016, there were 899 million active QQ accounts.
+	QQ is the parent company of WeChat. QQ’s initial release was in 1999.  An Android version of QQ International was released on September 2013. QQ International for iPhone and iOS devices was released at the end of 2013, fully equivalent to its Android counterpart.
+	Approximately there are 807 million user accounts on QQ. 
+
+
+				"-Features-"
+	|= Online Social Games
+		|= Music
+			|= Shopping
+				|= Microblogging
+					|= Movies
+						|= Group & Video Chat
+							|= Instant Messaging
+								|= Making Themes
+									|= Business Card
+										|= Ringtones
+
+
+			```Summary (QQ)```
+		Developer(s): Shenzhen Tencent Computer System Co., Ltd.
+			Stable release: 9.3.2 (Microsoft Windows) / April 15, 2020; 4 months ago
+		Initial release: February 1999; 21 years ago
+			License: Proprietary
+		Available in: Chinese language, English Language

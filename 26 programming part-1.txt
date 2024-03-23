@@ -1,0 +1,9 @@
+					<**> "_Programming_" <**>
+
+	-_  You have probably already been able to decipher the difference by now, but programming is a little different to coding.  
+
+	-_  Programming, strictly speaking, is the process of writing a set of instructions for a machine to follow. Ideally to allow an application to run without errors.  
+
+	-_  "In simple terms, programming means perfecting a recipe – you manipulate ingredients to cook a recipe, whereas a computer manipulates data to accomplish a task following a set of commands." 
+
+	-_  Programmers, as oppose to coders, create things, develop logic and analyze a problem. Coding is the means of allowing the machine to understand the instructions given by the programmer.  

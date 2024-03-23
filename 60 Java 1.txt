@@ -1,0 +1,20 @@
+				// {%} --`` What is Java ``-- {%}\\
+
+	##............ Java is a popular programming language, created in 1995.
+	##............ It is owned by Oracle, and more than 3 billion devices run Java.
+
+				][][][	" It is used for "	][][][
+
+	1. Mobile applications (specially Android apps)
+
+								2. Desktop applications
+
+	3. Web applications
+
+								4. Web servers and application servers
+
+	5. Games
+
+								6. Database connection
+
+					And much, much more!

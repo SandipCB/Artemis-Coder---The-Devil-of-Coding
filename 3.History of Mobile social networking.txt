@@ -1,0 +1,17 @@
+				//--History of Mobile social networking--\\
+
+	The evolution of social networking on mobile networks started in 1999 with basic chatting and texting services. With the introduction of various technologies in mobile networks, social networking has reached an advance level over four generations. 
+
+					*1999 - 2004*
+	Technologies used in this generation are application-based, pre-installed on mobile handsets. Features include text-only chat via chat rooms. The people who used these services were anonymous. The services of this generation's mobile social networks can be used on a pay-as-you-go or subscription-to-service basis.
+
+					*2004 - 2006*
+	The introduction of 3G and camera phones added many features such as uploading photos, mobile search for person based on profile and contacting/flirting with another person anonymously. Regional distributions of these features include Japan, Korea, Australia, Western Europe and US. The applications are mostly useful for dating purposes. The services of this generation's mobile social networks can be used on a pay-as-you-go or subscription-to-service basis.
+
+					*2006 - 2008*
+	The experiments for this generation mobile social networks started in 2006. It was adopted widely in 2008/2009. This generation brought tremendous changes and made mobile social networks as a part of daily life. The features include a richer user experience, automatic publishing to web profile and status updates, some Web 2.0 features, search by group/join by interests, alerts, location-based services and content sharing. Technologies include WAP 2.0, Java on the server, MMS, and voice capture. Applications introduced were customized with general interests such as music and mobile-specific content distribution. Regional distributions of this generation of mobile social networks include Japan, Korea, Western Europe, and North America.  Advertising and ad- supported content become increasingly important. The services in this generation can be used with pay-as-you-go plans; subscription-based plans were still popular as networks increased their scale to become content distribution platforms.
+
+					*2008 - Present*
+	Fourth generation began in 2008 and reached in 2010. All the features in third generation are advanced in this generation of social mobile networks. The features of this generation include the features of the third generation, the ability to hide/mask one's presence, asynchronous video conversation, multi-point audio chat conversation with one button, and multiplayer mobile gaming. Technologies which made these features possible are Web 2.0 widgets, Flash Light, Open Social, and Open Handset Alliance. The business model of previous generations continued along with virtual currency – the purchase and trade of virtual goods.
+In parallel to the increase of various technologies in mobile networks, the number of hours spent per adult on mobile devices per day has increased dramatically since 2008. As of 2014, mobile devices have surpassed desktop/laptops as the most used device per day for internet usage. A steady increase of mobile application usage over the past few years has contributed to the rise of mobile social networks, as well as to the diversity of usage of mobile social networks. 
+As the use of mobile social networks has increased, the location-based service within the mobile social network has also been increasing. Social network service companies now provide more location-based services for customers' wide use of the mobile devices and their convenience.

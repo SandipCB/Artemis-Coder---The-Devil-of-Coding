@@ -1,0 +1,5 @@
+	*~~~* Once development is finished, programmers need to pack all the bits of code (scripts and all) into a coherent program so that a non-programmer end-user can use it. This process requires compiling, testing, debugging and quality assurance prior to release to the general public.  
+
+	*~~~* Every app, game, website etc is a form of program. This sounds great, but it can have its flaws.  
+
+	*~~~* "Unlike people, computers will do exactly what you tell them to. This might sound great, but it can cause problems. If you tell a computer to start counting upwards and don’t tell it to stop, it’ll keep counting forever! Being a good programmer is all about knowing how to tell a computer to act."  

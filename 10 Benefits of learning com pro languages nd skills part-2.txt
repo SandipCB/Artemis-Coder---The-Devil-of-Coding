@@ -1,0 +1,5 @@
+	>>	Java, javascript, C#, C++, PHP, Python, Swift, SQL, Ruby, etc. programming languages are the reasons behind the innovations in information technologies. If today we are seeing robots, artificial intelligence, machine learning, bitcoins, blockchain, IoT (Internet of Things), Cloud Computing, etc. new technology and products in the IT industry, then it’s because of programming languages. 
+
+	The group of programs is called software. Programming languages are the way to create software that performs various or specific tasks in a systematic manner. Software development is like a Marriage event. 
+
+	A programming language is a method to communicate with machines in a systematic format. To understand programming languages first we need to start from programs. 

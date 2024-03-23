@@ -1,0 +1,7 @@
+					(5.) The Last Meritocracy
+	-- Here’s the secret to success in most corporate jobs: “kiss your immediate manager’s ass without making it obvious”.
+	--This is true in most jobs but not programming — at least not as much.
+	--Because unlike most other professions, your effort and skill is easily measurable in programming. One can simply look over 		your code to understand your effectiveness.
+	--In jobs where the value of your effort is not measurable the main factor that will dictate your career trajectory is what you 		immediate manager thinks of you. “Kissing ass” is not just optional, but a requirement if you want to get ahead in these 		fields.
+	--As programmer, your impact is clear. Your value is evident in the code that you write. If you are a good coder, you know it. 		Your coworkers know it. Your managers know it.
+	--In short, you career as a programmer will be dictated by your programming skills, not your schmoozing skills.

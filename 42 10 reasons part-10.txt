@@ -1,0 +1,10 @@
+					(6.) Anyone can do it
+	^^= There is a myth spread by programmers that “It takes a certain type of mind to learn programming, and not everyone can do it.”.
+			^^= That is just plain wrong.
+	^^= Anyone can be a programmer. If you can learn to use spreadsheets, you can learn to code. Consider how readily Alan Kay introduces children to programming.
+			^^= Coding is a skill like any other. Like language learning, there’s grammar and vocabulary to acquire. Like math, there are processes to work through specific types of problems. Like all kinds of craftsmanship and art-making, there are best practices that people have developed over time.
+	^^= However it is also true that anyone cannot become a “great programmer”. But this is true in every single field. Anyone can learn to play basketball, but anyone cannot play basketball like LeBron James.
+To become the best of the best requires an innate level of talent, aptitude and understanding that 90% of software developers will never acquire.
+			^^= But that is fine. You don’t need to be the best to do most programming jobs. Most coding jobs require you to do simple tasks that require basic logic and reasoning skills.
+	^^= It is becoming increasingly easy to find a job that you can be competent with just 6–12 months of education.
+			^^= And learning does not need to cost you your entire life savings or acquire crippling debt.

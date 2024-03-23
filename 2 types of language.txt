@@ -1,0 +1,9 @@
+					--"" Types of language ""--
+
+	>>The total number of computer languages to exist is approximately 9,000, though there are 50 that are the most popular programming languages in use today. 
+
+	-According to Wikipedia, there are about 700 programming languages, including esoteric coding languages. Other sources that only list notable languages still count up to an impressive 245 languages. Another list called HOPL, that claims to include every programming language to ever exist, puts the total number of programming languages at 8,945. Some even estimate a total of up to 25,000. 
+
+	-The following list of programming languages includes both popular languages and languages that are historically significant (or, perhaps, infamous for one reason or another). 
+
+	-Python Java JavaScript C# C C++ PHP R Objective-C Swift TypeScript MATLAB Kotlin Go (Golang) VBA Ruby Scala VisualBasic Rust Dart Ada Lua Abap Groovy Perl Cobol Julia Haskell Delphi Elm PowerShell SQL Clojure Elixir Pascal LISP Ballerina FORTRAN BASIC Alice COBOL Speakeasy Simula Smalltalk Prolog Erlang Ada Eiffel Rebol Scratch. 

@@ -1,0 +1,35 @@
+					`~`Telegram`~`
+	>-- Telegram is a cloud-based instant messaging, videotelephony and voice over IP service with end-to-end encryption for secret chat only, whereas cloud chat uses client-server/server-client encryption. 
+	>-- Telegram client apps are available for Android, iOS, Windows Phone, Windows, macOS and GNU/Linux and originated in Russia in 2013. Users can send messages and exchange photos, videos, stickers, audio and files of any type.
+	>-- Telegram's client-side code is free software, whereas its server-side code is closed-source and proprietary. The service also provides APIs to independent developers.
+	>-- The default messages and media use client-server encryption during transit. This data is also encrypted at rest, but can be accessed by Telegram developers, who hold the encryption keys. In addition Telegram provides end-to-end encrypted calls and optional end-to-end encrypted "secret" chats between two online users on smartphone clients. 
+	>-- However, the desktop clients do not feature end-to-end encryption, nor is end-to-end encryption available for groups, supergroups, or channels. Telegram has defended the lack of ubiquitous end-to-end encryption by claiming the online-backups that do not use client-side encryption are "the most secure solution currently possible," despite several other chat services such as Signal, Matrix, and WhatsApp offering end-to-end encryption on all platforms.
+	>-- As of April 2020, Telegram had 400 million monthly active users. An announcement at that time included a promise to implement secure group video calls later in 2020. 
+
+					*.. Features..*
+	Instant View 2.0
+	Telegraph
+	Cloud-based messages
+	Bots
+	Payment API for bots
+	Bot-powered  gaming platform 
+	 Custom Folders
+	Stickers
+	Drafts
+	Secret chats
+	Free video and voice calls
+	Video Messages
+	Live locations
+	Social login
+	People Nearby and Groups Nearby
+	Passport
+ 
+				         <>"Summary (Telegram)"<>
+
+Developer      :   Telegram FZ LLC
+                   Telegram Messenger Inc.
+Initial release:   14 August 2013; 7 years ago
+Written in     :  C++
+Platform       :  Android, iOS, Windows Phone,  macOS, GNU/Linux,  Windows NT
+Available in   :  14 languages 
+Website        :  telegram.org

@@ -1,0 +1,9 @@
+			........~~~~How to Learn SQL Language?~~~~........ 
+
+		``Choosing which implementation of SQL to learn is the first step. For example, if you are interested in web 				development, learning SQL Server is an excellent choice as many web applications use SQL Server for data storage.
+
+	``Add in a little HTML experience, and you’re ready for a web developer position. Using the combined skill set of SQL and 			HTML, you’ll have the freedom to find meaningful work.
+
+		``The basic SQL commands and queries are not difficult to learn. What does take time is learning how to interact 				with the database. Learning to write optimized SQL queries is trial-and-error.
+
+	``A poorly written query can increase response time, creating a time-out. To optimize queries, you need to understand how 			databases are designed. That’s why it’s vital to learn from experienced programmers.

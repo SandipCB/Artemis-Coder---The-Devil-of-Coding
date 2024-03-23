@@ -1,0 +1,62 @@
+				             ..>>..Snapchat..<<..
+	Snapchat is an American multimedia messaging app developed by Snap Inc., originally Snapchat Inc. One of the principal features of Snapchat is that pictures and messages are usually only available for a short time before they become inaccessible to their recipients. 
+	Snapchat was created by Evan Spiegel, Bobby Murphy and Reggie Brown former students at Stanford University. It has become known for representing a new, mobile-first direction for social media, and places significant emphasis on users interacting with virtual stickers and augmented reality objects.
+	The app has evolved from originally focusing on person-to-person photo sharing to presently featuring users' "Stories" of 24 hours of chronological content, along with "Discover," letting brands show ad-supported short-form content. It also allows users to keep photos in the "my eyes only" which lets them keep their photos in a password-protected space. It has also reportedly incorporated limited use of end-to-end encryption, with plans to broaden its use in the future.
+	As of March 2020, Snapchat had 229 million daily active users. On average more than 4 billion Snaps are sent each day. Snapchat is known to be popular among the younger generations, particularly those below the age of 16, leading to many privacy concerns for parents.
+	Snapchat app has 314 million users. This is the best app that captivated the hearts of millions of users. Snapchat is a multimedia messaging app where users can do instant messaging, video chat, share videos etc.
+	The most appealing thing in Snapchat is filters that make it different from others. It is the only app that shows the right direction of the users. In this, the end-user can send the video and image along with the message.
+
+	////...."Features"....\\\\
+	=Activity Dashboard
+	=Video Management
+	=Video Streaming
+	=Video Analytics
+	=Video Editing
+	=Performance Reports
+	=Demographic Data Collection
+	=Design Management
+	=Drag & Drop Interface
+	=Image Editing
+	=Instant Messaging
+	=Image Library
+	=Multimedia Support
+	=Geo targeting
+	=Performance Management
+	=Content Library
+	=Automated Scheduling
+	=Campaign Analytics
+
+
+		//.."Summary (SnapChat)"..//
+		== Original author(s): Evan Spiegel; Bobby Murphy; Reggie Brown
+		== Initial release date: July 8, 2011
+		== Developed by: Snap Inc.  
+		== Operating system: Android, iOS
+		== Size: 204.7 MB (iOS); 62.7 MB (Android)
+		== Programming languages: Python, JavaScript, Cocoa, PHP
+
+
+
+				Leading countries based on Snapchat audience size(In Millions)
+
+				Country.....................................Millions
+				United States-----------------------101.4	
+				India-----------------------------------33.8
+				France --------------------------------20.65
+				United Kingdom-------------------17.65 
+				Saudi Arabia------------------------17.35
+				Mexico--------------------------------15.2
+				Germany-----------------------------12.55
+				Brazil-----------------------------------12.35
+				Canada--------------------------------9.4
+				Philippines---------------------------9 
+				Turkey---------------------------------8.95
+				Iraq-------------------------------------8.7
+				Egypt-----------------------------------7.75
+				Russia----------------------------------7.55
+				Australia------------------------------6.75
+				Indonesia-----------------------------6.4
+				Pakistan------------------------------6.3
+				Colombia-----------------------------5.2
+				Netherlands-------------------------4.9
+				Morocco------------------------------4.4

@@ -1,0 +1,54 @@
+					*````Twitter````*
+
+	Twitter is an American microblogging and social networking service on which users post and interacts with messages known as "tweets". 
+	Twitter was created by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams in March 2006 and launched in July of that year.
+	Twitter, Inc. is based in San Francisco, California, and has more than 25 offices around the world. Tweets are originally restricted to 140 characters, but were doubled to 280 for non-CJK languages in November 2017. Audio and video tweets remain limited to 140 seconds for most accounts. 
+	By 2012, more than 100 million users posted 340 million tweets a day and the service handled an average of 1.6 billion search queries per day. Now, Twitter has 330 million users.
+	In 2013, it was one of the ten most-visited websites and has been described as "the SMS of the Internet". 
+	Registered users can post, like, and retweet tweets, but unregistered users can only read them. Users access Twitter through its website interface, through Short Message Service or its mobile-device application software. Twitter is the ideal social media platform for the best customer services. Users can choose to read the tweet of your interest like sports, news, entertainment, etc. There is one feature where users can chat with friends and followers. Eminent personalities share their views on twitter. 
+
+
+							/_\""_Features_""/_\
+							~>Enable grouping of friends and followers
+							~>Auto Complete in Tweets
+							~>Text links in tweets
+							~>Tweets-threading
+							~>Allow Tweets directed to a group of people
+							~>Display meta data through hover tooltips
+							~>Use the sidebar more effectively to display information
+							~>Add a page that displays tweets mentioning your username
+							~>Highlight specific users, deemphasize others in feed
+							~>Add a Built-in URL shortener
+
+
+			~>"Summary (Twitter)"~>
+	Founded: March 21, 2006, San Francisco, California, United States
+	CEO: Jack Dorsey (Sep 30, 2015 – Present)
+	Headquarters: San Francisco, California, United States
+	Founders: Jack Dorsey, Evan Williams, Noah Glass, Biz Stone
+	Subsidiaries: MoPub, TellApart, Inc., CrossInstall, Inc, Namo Media 
+
+
+			Leading countries based on Twitter audience size(In Millions)
+
+				Country..................................Millions
+				United States --------------------62.55
+				Japan--------------------------------49.1
+				India----------------------------------17	
+				Brazil---------------------------------15.7
+				United Kingdom------------------15.25
+				Turkey--------------------------------12.7
+				Saudi Arabia-----------------------12
+				Indonesia---------------------------11.2	
+				Mexico------------------------------10.4
+				Philippines--------------------------7.75
+				Thailand-----------------------------7.15
+				France--------------------------------7.1
+				Spain----------------------------------7.1
+				Canada-------------------------------5.8
+				Argentina---------------------------5.05
+				South Korea------------------------4.7		
+				Germany----------------------------4.2	
+				Egypt---------------------------------3.55
+				Colombia----------------------------3.35
+				Malaysia----------------------------3.1

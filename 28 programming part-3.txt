@@ -1,0 +1,5 @@
+	~~~ Everything a machine does follows a set of instructions (programming) that is written in a code that translates human instructions into this binary code. Every letter you read, each picture displayed, etc has behind it a sequence of 1's and 0's that instruct the machine how to process them in the machine's memory and do something the programmer wants it to do. 
+
+	~~~ A complete set of lines of code behind, say, an image in this article is also generally called a script. 
+
+	~~~ Each script is written in a code (like Javascript) that all work together to display this article, as intended, that you are now reading. Every function on a website (clicking "Like" buttons or hyperlinks etc) have their own piece of script behind them.   

@@ -1,0 +1,8 @@
+		````````````````````````````````````````` What Is SQL Programming Language? ````````````````````````````````````````` 
+	= When you’ve heard developers talk about an SQL programming language, you probably thought of Microsoft’s SQL server.
+
+	= But, Microsoft is only one of many providers of database management systems (DBMS).
+
+	= For example, Oracle has an SQL-based DBMS, and MySQL is an open-source SQL management system. There is an ANSI standard for SQL, but each solution has its own unique characteristics.
+
+	= However, learning a database language will add to a programmer’s tool kit and career opportunities.

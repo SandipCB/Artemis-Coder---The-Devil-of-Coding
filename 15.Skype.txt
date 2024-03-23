@@ -1,0 +1,38 @@
+				                -_- "Skype" -_-
+
+	~> Skype is a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console and smart watches over the Internet. 
+	~> Skype also provides instant messaging services. Users may transmit text, video, audio and images. Skype allows video conference calls.
+First released in August 2003, Skype was created by the Swede Niklas Zennström and the Dane Janus Friis, in cooperation with Ahti Heinla, Priit Kasesalu, Jaan Tallinn, and Toivo Annus, Estonians who developed the peer-to-peer backend that was also used in the music-sharing application Kazaa. 
+In September 2005, eBay acquired Skype for $2.6 billion. 
+	~> In September 2009, Silver Lake, Andreessen Horowitz, and the Canada Pension Plan Investment Board announced the acquisition of 65% of Skype for $1.9 billion from eBay, which attributed to the enterprise a market value of $2.92 billion. 
+At the end of 2010, there were over 660 million worldwide users, with over 300 million estimated active each month as of August 2015. At one point in February 2012, there were 34 million users concurrently online on Skype. 
+Microsoft bought Skype in May 2011 for $8.5 billion.
+	~> In March 2020, Skype was used by 100 million people on a monthly basis and by 40 million people on a daily basis. That was a 70% increase in the number of daily users from the previous month, due to the COVID-19 pandemic. 
+Skype's division headquarters are in Luxembourg but most of the development team and 44% of all the division's employees are still situated in Tallinn and Tartu, Estonia. 
+	~> Skype originally featured a hybrid peer-to-peer and client–server system. Skype has been powered entirely by Microsoft-operated supernodes since May 2012. 
+	~> The 2013 mass surveillance disclosures revealed that Microsoft had granted intelligence agencies unfettered access to supernodes and Skype communication content. 
+	~> Throughout 2016 and 2017, Microsoft redesigned its Skype clients in a way that transitioned Skype from peer-to-peer service to a centralized Azure service and adjusted the user interfaces of apps to make text-based messaging more prominent than voice calling. Skype for Windows, iOS, Android, Mac and Linux received significant, visible overhauls.
+
+				--"Features"--
+	_ Chat History
+	_ Quoting
+	_ Formatting
+	_ Outgoing Calls
+	_ Subscription Calling Plans
+	_ Skype To Go Numbers
+	_ Toll-Free Numbers
+	_ Emergency Numbers
+	_ Caller ID For Outgoing Numbers
+	_ Voicemail
+	_ SMS Text Messaging
+	_ Wireless Hotspot Network Access
+ 
+
+				.."Summary (Skype)"..
+Developed by: Skype Communications S.a r.l. (Microsoft Corporation)
+Initial release date: August 2003
+Original authors: Priit Kasesalu, Jaan Tallinn, Ahti Heinla, Toivo Annus
+Programming languages: C++, Delphi, Objective-C, Object Pascal
+Awards: Technology & Engineering Emmy Award for Development of Integrated Consumer Video Conferencing Service into Broadcast Production Environments and Workflows
+
+

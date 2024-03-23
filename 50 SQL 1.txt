@@ -1,0 +1,2 @@
+				~~~~~~~~~~~ `` SQL `` ~~~~~~~~~~~ 
+	SQL (structured query language) is a language for specifying the organization of databases (collections of records). Databases organized with SQL are called relational because SQL provides the ability to query a database for information that falls in a given relation. For example, a query might be “find all records with both last_name Smith and city New York.” Commercial database programs commonly use a SQL-like language for their queries.

@@ -1,0 +1,13 @@
+				\\||~~ What Is a Database? ~~||//
+
+	//.... Databases are designed to hold massive amounts of data that can be accessed by multiple users simultaneously.
+
+	//.... There are different database types, depending on data storage.
+
+	//.... For example, distributed databases are located on multiple computers occupying the same physical space or spread over multiple locations.
+
+	//.... Relational databases store data in tables consisting of columns and rows similar to a spreadsheet.
+
+	//.... Spreadsheets allow for simple manipulation of stored data, while relational databases with the help of SQL allow for complex manipulation of the data.
+
+	//.... Relational databases are the most used technology for accessing structured data.

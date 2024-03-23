@@ -1,0 +1,8 @@
+	,,,, Ruby is a pure object-oriented programming language. It was created in 1993 by Yukihiro Matsumoto of Japan.
+
+	,,,,  You can find the name Yukihiro Matsumoto on the Ruby mailing list at www.ruby-lang.org. Matsumoto is also known as Matz in the Ruby community.
+
+	,,,,  Ruby is "A Programmer's Best Friend".
+
+	,,,, Ruby has features that are similar to those of Smalltalk, Perl, and Python. Perl, Python, and Smalltalk are scripting languages. Smalltalk is a true object-oriented language. Ruby, like Smalltalk, is a perfect object-oriented language. Using Ruby syntax is much easier than using Smalltalk syntax.
+

@@ -1,0 +1,75 @@
+					|> "LinkedIn" <|
+
+	~LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. 
+Launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs. As of 2015, most of the company's revenue came from selling access to information about its members to recruiters and sales professionals. 
+	~Since December 2016 it has been a wholly owned subsidiary of Microsoft. As of May 2020, LinkedIn had 706 million registered members in 150 countries. 
+LinkedIn is an app that is used for professional messaging. It is available in multiple languages. Members can invite anyone and make a connection.
+	~LinkedIn allows members to create profiles and "connections" to each other in an online social network which may represent real-world professional relationships. Members can invite anyone to become a "connection".
+LinkedIn users can create a profile by giving some information. The mobile version of LinkedIn was installed in 2008, which makes it very accessible and compatible. 
+	~There are approximately 310 million members of LinkedIn.
+
+					>> Features <<
+	>Activity Dashboard
+		>Activity Tracking
+			>Applicant Tracking
+				>Application Management
+					>Automatic Notification
+						>Categorization
+							>Chat
+								>Desktop Notification
+									>Email Invitations
+										>Reminders
+									>Email Notification
+								>Employee Profile
+							>Engagement Analytics
+						>Instant Messaging
+					>Job Application Management
+				>Keyword Tracking
+			>Lead Management
+		>Multimedia Support
+	>Personalized Profiles
+		>Reference Checking
+			>Sales Analytics
+				>Search Functionality 
+					>Reminders
+						>Skills Assessment
+							>Skill Tracking
+								>Social Networking Marketing
+									>Users Photo
+								>Video Streaming
+							>Visual Analytics
+						>Web Analytics
+
+
+					<>"Summary (Linkedln)"<>
+	CEO: Ryan Roslansky (Jun 1, 2020 – Present)
+		Founded: 2002, Mountain View, California, United States
+			Headquarters: Sunnyvale, California, United States
+				Founders: Reid Hoffman, Konstantin Guericke, Allen Blue, Eric Ly, Jean-Luc Vaillant
+					Parent organization: Microsoft Corporation
+						Subsidiaries: LinkedIn Learning, Glint Inc
+
+
+		Leading countries based on LinkedIn audience size(In Millions)
+
+		Country <<------------------------>> Millions
+		United States..............................170		
+		India.............................................68
+		China............................................50
+		Brazil ............................................43
+		United Kingdom..........................29 
+		France .........................................20	
+		Canada ........................................17
+		Indonesia ....................................16
+		Mexico.........................................15 
+		Italy..............................................14
+		Spain............................................13
+		Australia......................................11 
+		Germany ....................................11
+		Turkey ........................................9.2
+		Philippines..................................8.9 
+		Netherlands...............................8.8
+		Colombia...................................8.6
+		Argentina...................................8
+		South Africa...............................8
+		Russia........................................6.9

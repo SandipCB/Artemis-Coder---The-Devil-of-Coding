@@ -1,0 +1,36 @@
+					::- "WeChat" -::
+	WeChat is a Chinese multi-purpose messaging, social media and mobile payment app developed by Tencent. First released in 2011, it became the world's largest standalone mobile app in 2018, with over 1 billion monthly active users. WeChat has been described as China's "app for everything" and a "super app" because of its wide range of functions. 
+	User activity on WeChat is analyzed, tracked and shared with Chinese authorities upon request as part of the mass surveillance network in China. WeChat censors politically sensitive topics in China. Data transmitted by accounts registered outside of China is surveilled, analyzed and used to build up censorship algorithms in China. 
+	In response to a border dispute between India and China, WeChat was banned in India in June 2020. 
+On August 6, 2020, U.S. President Donald Trump signed an executive order banning U.S. "transactions" with WeChat in 45 days.
+This is an all-in-one instant messaging platform that is compatible with ios and android. WeChat provides the feature of multi-lingual. WeChat is almost similar to WhatsApp, where you can message as well as you can make a call. It adds the function to engage the users of your choice.
+	1.3 billion Peoples are connected with WeChat.
+
+			~``~ "Features" ~``~
+	# Messaging & Calling App
+	# Share Localization
+			# Scan QR Code
+			# Search Engine
+				# News Feed
+				# E-Wallet
+					# WeChat Pay
+					# Card Repay
+						# Loans
+						# Mobile Top Up
+							# Bills
+							# Public Services
+						# Booking Rail & Flight Tickets
+						# Book A Taxi
+					# Movie Tickets
+					# Hotels
+				# Flash Sales
+				# Housing
+
+						*"_Summary (WeChat)_"*
+						Developed by: Tencent
+						Developer(s): Tencent Holdings Limited
+						Operating system: Android, iOS, macOS, Windows
+						Initial release date: January 21, 2011
+						Available in: 17 languages
+						Programming language: JavaScript
+
