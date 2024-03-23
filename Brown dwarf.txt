@@ -1,0 +1,10 @@
+					``````` Brown dwarf``````` 
+
+	... A brown dwarf is a type of substellar object that has a mass between those of the heaviest gas giant planets and the least massive stars, i.e. about 13 to 75–80 times that of Jupiter (MJ), or about 2.5×1028 kg to 1.5×1029 kg. Below this range are the sub-brown dwarfs (sometimes referred to as rogue planets), and above it are the red dwarfs. Brown dwarfs may be fully convective, with no layers or chemical differentiation by depth.
+
+	... Unlike the stars in the main sequence, brown dwarfs are not massive enough to sustain nuclear fusion of ordinary hydrogen (1H) to helium in their cores. They are, however, thought to fuse deuterium (2H). If their mass is > 65 MJ they may also fuse lithium (7Li). It is also debated whether brown dwarfs would be better defined by their formation processes rather than by their nuclear fusion reactions.
+
+	... Stars are categorized by spectral class, with brown dwarfs designated as types M, L, T, and Y. Despite their name, brown dwarfs are of different colors.[4] Many brown dwarfs would likely appear magenta to the human eye, or possibly orange/red. Brown dwarfs are not very luminous at visible wavelengths.
+	... There are planets known to orbit brown dwarfs, such as 2M1207b, MOA-2007-BLG-192Lb, and 2MASS J044144b.
+	
+	... At a distance of about 6.5 light years, the nearest known brown dwarf is Luhman 16, a binary system of brown dwarfs discovered in 2013. HR 2562 b is listed as the most-massive known exoplanet (as of December 2017) in NASA's exoplanet archive, despite having a mass (30±15 MJ) more than twice the 13-Jupiter-mass cutoff between planets and brown dwarfs.

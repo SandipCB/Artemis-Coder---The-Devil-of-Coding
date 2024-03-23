@@ -1,0 +1,16 @@
+                                      " Instruction for Word Game "
+                                     -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+	>>> Here you can get some unordered letter and then you will rearrange it & find a meaningful word .
+    In this game , you will get two level ; Easy and Hard Level .
+
+
+
+
+
+                                       " Instruction for Memory Test Game "
+                                     -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+	>>> At first , you can see some words for 5 sec . After 5 sec , the words will be vanish and now you can test your memory , how strong it is ? By this game , you can test your memory . 
+
+		====> " Thank You So Much For Reading" <===

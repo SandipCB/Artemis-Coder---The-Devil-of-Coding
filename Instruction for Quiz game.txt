@@ -1,0 +1,14 @@
+                                       ~~~~~ Instructions for Quiz Game ~~~~~
+                                       ======================================
+
+=>> When you entered into the part of quiz game, you can see 3 level of this game which is Easy , Medium & Hard level. 
+    Then, when you entered into the Easy level of this game, you will face some easy questions with simple 2 options. Here you can get 10 sec for giving the right answer. After overcoming the accurate time, you will face 0.25 negative marking for every 10 sec, for each & every correct answer. 
+    Similarly, in Medium level, you will face some difficult  questions with 4 options. Here you can get 30 sec for giving the right answer. After overcoming the accurate time, you will face 1 negative marking for every 15 sec, for each & every correct answer. 
+    Finally, the last level is Hard level. Here ,  you will face some questions with no options & you can get 60 sec for giving the right answer. After overcoming the accurate time, you will face 1 negative marking for every 10 sec, for each & every correct answer. 
+    After finishing the game , you can see you total score .
+ 
+
+
+
+                                              || Thank You So Much ||
+                                             -------------------------

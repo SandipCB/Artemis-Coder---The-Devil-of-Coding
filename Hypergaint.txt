@@ -1,0 +1,6 @@
+					#_____ ""Hypergiant""_____ #
+
+	>> A hypergiant (luminosity class 0 or Ia+) is a very rare type of star that has an extremely high luminosity, mass, size and mass loss because of their extreme stellar winds.
+	>> The term hypergiant is defined as luminosity class 0 (zero) in the MKK system. However, this is rarely seen in the literature or in published spectral classifications, except for specific well-defined groups such as the yellow hypergiants, RSG (red supergiants), or blue B(e) supergiants with emission spectra.
+	>> More commonly, hypergiants are classed as Ia-0 or Ia+, but red supergiants are rarely assigned these spectral classifications.
+Astronomers are interested in these stars because they relate to understanding stellar evolution, especially with star formation, stability, and their expected demise as supernovae.

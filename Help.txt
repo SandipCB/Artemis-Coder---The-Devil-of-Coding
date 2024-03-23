@@ -1,0 +1,18 @@
+A help about this project to control it :-
+
+1. At first you see the console page of this project. Then you enter into this project.
+
+2. Then you "sign in" into the project, if you are registered or "sign up" if you are not registered.
+
+3. Then you can see some option for knowing information , playing game and so on. Click one of them.
+
+4. If you want to know info, then you pressure a key , which is showing on the consolt page. Then enter into the info part. Here, you get some many info which is really benefited for increasing you knowledge.
+
+5. After showing the info , you will get 3 options for coming back from that page . Here , if you press 1 , you can go to Home menu , then , if you press 2 , you can go to the previous menu & finally, for back menu , you press the number 3.
+
+6. Then , if you you want to play quiz game , at first you go to the quiz part of this project. Then enter to the game . At first , you can see 3 options of this game , that is easy , medium & hard. Then you choose your option & play the game.
+
+7. Finally, you get some another options for knowing more things about this project.
+
+                                
+                            ============> THANK YOU SO MUCH<============ 
