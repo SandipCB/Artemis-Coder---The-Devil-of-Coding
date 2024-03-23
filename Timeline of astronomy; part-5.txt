@@ -1,0 +1,14 @@
+					<->" 1126 "<->
+	Islamic and Indian astronomical works (including Aryabhatiya and Brahma-Sphuta-Siddhanta) are translated into Latin in Córdoba, Spain in 1126, introducing European astronomers to Islamic and Indian astronomy.
+
+					<->" 1150 "<->
+	Indian mathematician-astronomer Bhāskara II, in his Siddhanta Shiromani, calculates the longitudes and latitudes of the planets, lunar and solar eclipses, risings and settings, the Moon's lunar crescent, syzygies, and conjunctions of the planets with each other and with the fixed stars, and explains the three problems of diurnal rotation. He also calculates the planetary mean motion, ellipses, first visibilities of the planets, the lunar crescent, the seasons, and the length of the Earth's revolution around the Sun to 9 decimal places.
+
+					<->" 1190 "<->
+	Al-Bitruji proposed an alternative geocentric system to Ptolemy's. He also declared the Ptolemaic system as mathematical, and not physical. His alternative system spread through most of Europe during the 13th century, with debates and refutations of his ideas continued to the 16th century.
+
+					<->" 1250 "<->
+	Mo'ayyeduddin Urdi develops the Urdi lemma, which is later used in the Copernican heliocentric model.
+	Nasir al-Din al-Tusi resolved significant problems in the Ptolemaic system by developing the Tusi-couple as an alternative to the physically problematic equant introduced by Ptolemy. His Tusi-couple is later used in the Copernican model.
+	Tusi's student Qutb al-Din al-Shirazi, in his The Limit of Accomplishment concerning Knowledge of the Heavens, discusses the possibility of heliocentrism.
+	Najm al-Din al-Qazwini al-Katibi, who also worked at the Maraghah observatory, in his Hikmat al-'Ain, wrote an argument for a heliocentric model, though he later abandoned the idea.

@@ -1,0 +1,23 @@
+					..~~Targets of exploration~~..
+
+	>> Starting in the mid-20th century probes and then human mission were sent into Earth orbit, and then on to the Moon. Also, probes were sent throughout the known Solar system, and into Solar orbit. Unmanned spacecraft have been sent into orbit around Saturn, Jupiter, Mars, Venus, and Mercury by the 21st century, and the most distance active spacecraft, Voyager 1 and 2 traveled beyond 100 times the Earth-Sun distance. The instruments were enough though that it is thought they have left the Sun's heliosphere, a sort of bubble of particles made in the Galaxy by the Sun's solar wind.
+
+					..~~The Sun~~..
+	>> The Sun is a major focus of space exploration. Being above the atmosphere in particular and Earth's magnetic field gives access to the solar wind and infrared and ultraviolet radiations that cannot reach Earth's surface. The Sun generates most space weather, which can affect power generation and transmission systems on Earth and interfere with, and even damage, satellites and space probes. Numerous spacecraft dedicated to observing the Sun, beginning with the Apollo Telescope Mount, have been launched and still others have had solar observation as a secondary objective. Parker Solar Probe, launched in 2018, will approach the Sun to within 1/8th the orbit of Mercury.
+
+					..~~Mercury~~..
+	>> Mercury remains the least explored of the Terrestrial planets. As of May 2013, the Mariner 10 and MESSENGER missions have been the only missions that have made close observations of Mercury. MESSENGER entered orbit around Mercury in March 2011, to further investigate the observations made by Mariner 10 in 1975 (Munsell, 2006b).
+
+	>> A third mission to Mercury, scheduled to arrive in 2025, BepiColombo is to include two probes. BepiColombo is a joint mission between Japan and the European Space Agency. MESSENGER and BepiColombo are intended to gather complementary data to help scientists understand many of the mysteries discovered by Mariner 10's flybys.
+
+	>> Flights to other planets within the Solar System are accomplished at a cost in energy, which is described by the net change in velocity of the spacecraft, or delta-v. Due to the relatively high delta-v to reach Mercury and its proximity to the Sun, it is difficult to explore and orbits around it are rather unstable.
+
+					..~~Venus~~..
+
+	>> Venus was the first target of interplanetary flyby and lander missions and, despite one of the most hostile surface environments in the Solar System, has had more landers sent to it (nearly all from the Soviet Union) than any other planet in the Solar System. The first flyby was the 1961 Venera 1, though the 1962 Mariner 2 was the first flyby to successfully return data. Mariner 2 has been followed by several other flybys by multiple space agencies often as part of missions using a Venus flyby to provide a gravitational assist en route to other celestial bodies. In 1967 Venera 4 became the first probe to enter and directly examine the atmosphere of Venus. In 1970, Venera 7 became the first successful lander to reach the surface of Venus and by 1985 it had been followed by eight additional successful Soviet Venus landers which provided images and other direct surface data. Starting in 1975 with the Soviet orbiter Venera 9 some ten successful orbiter missions have been sent to Venus, including later missions which were able to map the surface of Venus using radar to pierce the obscuring atmosphere.
+
+					..~~Earth~~..
+
+	>> Space exploration has been used as a tool to understand Earth as a celestial object in its own right. Orbital missions can provide data for Earth that can be difficult or impossible to obtain from a purely ground-based point of reference.
+
+	>> For example, the existence of the Van Allen radiation belts was unknown until their discovery by the United States' first artificial satellite, Explorer 1. These belts contain radiation trapped by Earth's magnetic fields, which currently renders construction of habitable space stations above 1000 km impractical. Following this early unexpected discovery, a large number of Earth observation satellites have been deployed specifically to explore Earth from a space based perspective. These satellites have significantly contributed to the understanding of a variety of Earth-based phenomena. For instance, the hole in the ozone layer was found by an artificial satellite that was exploring Earth's atmosphere, and satellites have allowed for the discovery of archeological sites or geological formations that were difficult or impossible to otherwise identify.

@@ -1,0 +1,24 @@
+						``Saturn``
+
+	~~A view beneath the clouds of Titan, as seen in false colour, created from a mosaic of images taken by Cassini (2013)
+Saturn has been explored only through uncrewed spacecraft launched by NASA, including one mission (Cassini–Huygens) planned and executed in cooperation with other space agencies. These missions consist of flybys in 1979 by Pioneer 11, in 1980 by Voyager 1, in 1982 by Voyager 2 and an orbital mission by the Cassini spacecraft, which lasted from 2004 until 2017.
+
+	~~Saturn has at least 62 known moons, although the exact number is debatable since Saturn's rings are made up of vast numbers of independently orbiting objects of varying sizes. The largest of the moons is Titan, which holds the distinction of being the only moon in the Solar System with an atmosphere denser and thicker than that of Earth. Titan holds the distinction of being the only object in the Outer Solar System that has been explored with a lander, the Huygens probe deployed by the Cassini spacecraft.
+
+						``Uranus``
+
+	~~The exploration of Uranus has been entirely through the Voyager 2 spacecraft, with no other visits currently planned. Given its axial tilt of 97.77°, with its polar regions exposed to sunlight or darkness for long periods, scientists were not sure what to expect at Uranus. The closest approach to Uranus occurred on 24 January 1986. Voyager 2 studied the planet's unique atmosphere and magnetosphere. Voyager 2 also examined its ring system and the moons of Uranus including all five of the previously known moons, while discovering an additional ten previously unknown moons.
+
+	~~Images of Uranus proved to have a very uniform appearance, with no evidence of the dramatic storms or atmospheric banding evident on Jupiter and Saturn. Great effort was required to even identify a few clouds in the images of the planet. The magnetosphere of Uranus, however, proved to be unique, being profoundly affected by the planet's unusual axial tilt. In contrast to the bland appearance of Uranus itself, striking images were obtained of the Moons of Uranus, including evidence that Miranda had been unusually geologically active.
+
+						``Neptune``
+
+	~~The exploration of Neptune began with the 25 August 1989 Voyager 2 flyby, the sole visit to the system as of 2014. The possibility of a Neptune Orbiter has been discussed, but no other missions have been given serious thought.
+
+	~~Although the extremely uniform appearance of Uranus during Voyager 2's visit in 1986 had led to expectations that Neptune would also have few visible atmospheric phenomena, the spacecraft found that Neptune had obvious banding, visible clouds, auroras, and even a conspicuous anticyclone storm system rivaled in size only by Jupiter's small Spot. Neptune also proved to have the fastest winds of any planet in the Solar System, measured as high as 2,100 km/h. Voyager 2 also examined Neptune's ring and moon system. It discovered 900 complete rings and additional partial ring "arcs" around Neptune. In addition to examining Neptune's three previously known moons, Voyager 2 also discovered five previously unknown moons, one of which, Proteus, proved to be the last largest moon in the system. Data from Voyager 2 supported the view that Neptune's largest moon, Triton, is a captured Kuiper belt object.
+
+					``Other objects in the Solar System``
+
+	~~The dwarf planet Pluto presents significant challenges for spacecraft because of its great distance from Earth (requiring high velocity for reasonable trip times) and small mass (making capture into orbit very difficult at present). Voyager 1 could have visited Pluto, but controllers opted instead for a close flyby of Saturn's moon Titan, resulting in a trajectory incompatible with a Pluto flyby. Voyager 2 never had a plausible trajectory for reaching Pluto.
+
+	~~Pluto continues to be of great interest, despite its reclassification as the lead and nearest member of a new and growing class of distant icy bodies of intermediate size (and also the first member of the important subclass, defined by orbit and known as "plutinos"). After an intense political battle, a mission to Pluto dubbed New Horizons was granted funding from the United States government in 2003. New Horizons was launched successfully on 19 January 2006. In early 2007 the craft made use of a gravity assist from Jupiter. Its closest approach to Pluto was on 14 July 2015; scientific observations of Pluto began five months prior to closest approach and continued for 16 days after the encounter.

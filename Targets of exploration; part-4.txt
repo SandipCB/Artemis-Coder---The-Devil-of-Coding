@@ -1,0 +1,14 @@
+					**** Asteroids and comets**** 
+
+	#> Until the advent of space travel, objects in the asteroid belt were merely pinpricks of light in even the largest telescopes, their shapes and terrain remaining a mystery. Several asteroids have now been visited by probes, the first of which was Galileo, which flew past two: 951 Gaspra in 1991, followed by 243 Ida in 1993. Both of these lay near enough to Galileo's planned trajectory to Jupiter that they could be visited at acceptable cost. The first landing on an asteroid was performed by the NEAR Shoemaker probe in 2000, following an orbital survey of the object. The dwarf planet Ceres and the asteroid 4 Vesta, two of the three largest asteroids, were visited by NASA's Dawn spacecraft, launched in 2007.
+
+	#> Although many comets have been studied from Earth sometimes with centuries-worth of observations, only a few comets have been closely visited. In 1985, the International Cometary Explorer conducted the first comet fly-by (21P/Giacobini-Zinner) before joining the Halley Armada studying the famous comet. The Deep Impact probe smashed into 9P/Tempel to learn more about its structure and composition and the Stardust mission returned samples of another comet's tail. The Philae lander successfully landed on Comet Churyumov–Gerasimenko in 2014 as part of the broader Rosetta mission.
+
+	#> Hayabusa was a robotic spacecraft developed by the Japan Aerospace Exploration Agency to return a sample of material from the small near-Earth asteroid 25143 Itokawa to Earth for further analysis. Hayabusa was launched on 9 May 2003 and rendezvoused with Itokawa in mid-September 2005. After arriving at Itokawa, Hayabusa studied the asteroid's shape, spin, topography, color, composition, density, and history. In November 2005, it landed on the asteroid twice to collect samples. The spacecraft returned to Earth on 13 June 2010.
+
+					#> Deep space exploration<#
+
+	#> This high-resolution image of the Hubble Ultra Deep Field includes galaxies of various ages, sizes, shapes, and colors. The smallest, reddest galaxies, are some of the most distant galaxies to have been imaged by an optical telescope.
+Deep space exploration is the branch of astronomy, astronautics and space technology that is involved with the exploration of distant regions of outer space.  Physical exploration of space is conducted both by human spaceflights (deep-space astronautics) and by robotic spacecraft.
+
+	#> Some of the best candidates for future deep space engine technologies include anti-matter, nuclear power and beamed propulsion.  The latter, beamed propulsion, appears to be the best candidate for deep space exploration presently available, since it uses known physics and known technology that is being developed for other purposes.

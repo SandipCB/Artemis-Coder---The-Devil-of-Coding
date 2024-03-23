@@ -1,0 +1,14 @@
+					<->" 1872 "<->
+	An American astronomer Henry Draper takes the first photograph of the spectrum of a star (Vega), showing absorption lines that reveal its chemical makeup. Astronomers begin to see that spectroscopy is the key to understanding how stars evolve. William Huggins uses absorption lines to measure the redshifts of stars, which give the first indication of how fast stars are moving.
+
+					<->" 1895 "<->
+	Konstantin Tsiolkovsky publishes his first article on the possibility of space flight. His greatest discovery is that a rocket, unlike other forms of propulsion, will work in a vacuum. He also outlines the principle of a multistage launch vehicle.
+
+					<->" 1901 "<->
+	A comprehensive survey of stars, the Henry Draper Catalogue, is published. In the catalog, Annie Jump Cannon proposes a sequence of classifying stars by the absorption lines in their spectra, which is still in use today.
+
+					<->" 1906 "<->
+	Ejnar Hertzsprung establishes the standard for measuring the true brightness of a star. He shows that there is a relationship between color and absolute magnitude for 90% of the stars in the Milky Way Galaxy. In 1913, Henry Norris Russell publishes a diagram that shows this relationship. Although astronomers agree that the diagram shows the sequence in which stars evolve, they argue about which way the sequence progresses. Arthur Eddington finally settles the controversy in 1924.
+
+					<->" 1910 "<->
+	Williamina Fleming publishes her discovery of white dwarf stars.

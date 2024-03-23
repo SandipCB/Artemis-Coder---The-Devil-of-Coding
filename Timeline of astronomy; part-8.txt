@@ -1,0 +1,17 @@
+					<->" 1750 "<->
+	French astronomer Nicolas de Lacaille sails to southern oceans and begins work compiling a catalog of more than 10000 stars in the southern sky. Although Halley and others have observed from the Southern Hemisphere before, Lacaille's star catalog is the first comprehensive one of the southern sky.
+
+					<->" 1781 "<->
+	Amateur astronomer William Herschel discovers the planet Uranus, although he at first mistakes it for a comet. Uranus is the first planet to be discovered beyond Saturn, which was thought to be the most distant planet in ancient times.
+
+					<->" 1784 "<->
+	Charles Messier publishes his catalog of star clusters and nebulas. Messier draws up the list to prevent these objects from being identified as comets. However, it soon becomes a standard reference for the study of star clusters and nebulas and is still in use today.
+
+					<->" 1800 "<->
+William Herschel splits sunlight through a prism and with a thermometer, measures the energy given out by different colours. He notices a sudden increase in energy beyond the red end of the spectrum, discovering invisible infrared and laying the foundations of spectroscopy.
+
+					<->" 1801 "<->
+	Italian astronomer Giuseppe Piazzi discovers what appears to be a new planet orbiting between Mars and Jupiter, and names it Ceres. William Herschel proves it is a very small object, calculating it to be only 320 km in diameter, and not a planet. He proposes the name asteroid, and soon other similar bodies are being found. We now know that Ceres is 932 km in diameter, and is now considered to be a dwarf planet.
+
+					<->" 1814 "<->
+Joseph von Fraunhofer builds the first accurate spectrometer and uses it to study the spectrum of the Sun's light. He discovers and maps hundreds of fine dark lines crossing the solar spectrum. In 1859 these lines are linked to chemical elements in the Sun's atmosphere. Spectroscopy becomes a method for studying what stars are made of.
